@@ -1,0 +1,180 @@
+@font-face {
+    font-family: 'Sinkin Sans';
+    src:
+        url('../fonts/SinkinSans-300Light.woff2') format('woff2'),
+        url('../fonts/SinkinSans-300Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src:
+        url('../fonts/SinkinSans-100ThinItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-100ThinItalic.woff') format('woff');
+    font-weight: 100;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src:
+        url('../fonts/SinkinSans-300LightItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-300LightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-200XLightItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-200XLightItalic.woff') format('woff');
+    font-weight: 300;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-200XLight.woff2') format('woff2'),
+        url('../fonts/SinkinSans-200XLight.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-100Thin.woff2') format('woff2'),
+        url('../fonts/SinkinSans-100Thin.woff') format('woff');
+    font-weight: 100;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-900XBlackItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-900XBlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-600SemiBoldItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-600SemiBoldItalic.woff') format('woff');
+    font-weight: 600;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-400Regular.woff2') format('woff2'),
+        url('../fonts/SinkinSans-400Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-500MediumItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-500MediumItalic.woff') format('woff');
+    font-weight: 500;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-800BlackItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-800BlackItalic.woff') format('woff');
+    font-weight: 900;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-900XBlack.woff2') format('woff2'),
+        url('../fonts/SinkinSans-900XBlack.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans';
+    src: 
+        url('../fonts/SinkinSans-700BoldItalic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-700BoldItalic.woff') format('woff');
+    font-weight: bold;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans 500';
+    src: 
+        url('../fonts/SinkinSans-500Medium.woff2') format('woff2'),
+        url('../fonts/SinkinSans-500Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans 400';
+    src: 
+        url('../fonts/SinkinSans-400Italic.woff2') format('woff2'),
+        url('../fonts/SinkinSans-400Italic.woff') format('woff');
+    font-weight: normal;
+    font-style: italic;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans 600';
+    src: 
+        url('../fonts/SinkinSans-600SemiBold.woff2') format('woff2'),
+        url('../fonts/SinkinSans-600SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans 800';
+    src: 
+        url('../fonts/SinkinSans-800Black.woff2') format('woff2'),
+        url('../fonts/SinkinSans-800Black.woff') format('woff');
+    font-weight: 900;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Sinkin Sans 700';
+    src: 
+        url('../fonts/SinkinSans-700Bold.woff2') format('woff2'),
+        url('../fonts/SinkinSans-700Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
