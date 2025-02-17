@@ -858,6 +858,7 @@ body.no-scroll {
 	background: #fff;
 	position: relative;
 	z-index: 10;
+	overflow: hidden;
 }
 
 .footer::before {
