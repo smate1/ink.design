@@ -1211,8 +1211,7 @@ body.no-scroll {
 		line-height: 35px;
 		text-align: left;
 	}
-	.footer__info {
-	}
+
 	.footer__socials-link {
 		font-size: 8px;
 	}
@@ -1248,13 +1247,17 @@ body.no-scroll {
 	.runner-white::after {
 		mix-blend-mode: initial;
 	}
-
-	.runner {
-		height: 70px;
+	.runner__track{
+		transform: translateY(-5px);
 	}
-	.runner {
+	.runner__wrapper{
 		padding: 5px 0;
 	}
+	.runner {
+		height: 55px;
+		padding: 0;
+	}
+
 	.runner__track img {
 		scale: 1;
 	}
@@ -1524,6 +1527,9 @@ body.no-scroll {
 }
 
 @media (max-width: 660px) {
+	.benefits__text + .benefits__text {
+		margin-top: 10px;
+	}
 	.benefits::before {
 		bottom: -95px;
 		left: 45px;
@@ -1606,10 +1612,10 @@ body.no-scroll {
 
 @media (max-width: 585px) {
 	.hover-overlay {
-		padding: 30px 11px;
+		padding: 28px 11px 30px;
 		width: 60px;
 		height: 60px;
-		font-size: 6px;
+		font-size: 8px;
 	}
 	.footer__btn {
 		scale: 0.6;
@@ -1801,7 +1807,6 @@ body.no-scroll {
 		width: 40px;
 		height: 40px;
 		font-size: 6px;
-
 	}
 
 	.footer::after,
